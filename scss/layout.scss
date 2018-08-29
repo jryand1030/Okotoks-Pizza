@@ -1,0 +1,137 @@
+body, html {
+    height:100%;
+}
+
+body {
+    background-image: url('/images/background2.jpeg');
+    height:90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+}
+
+header {
+    height: 4rem;
+}
+a {
+    color:white;
+}
+
+p {
+    color:white
+}
+
+.fa-phone {
+    font-size: 3rem;
+    color:white;
+    margin-right:35px;
+    position:relative;
+}
+
+.phone-lg {
+    color: white;
+    text-align: left;
+    font-weight: bolder;
+}
+.text {
+    color: white;
+    text-align: right;
+    font-weight: bolder;
+
+}
+
+.fa-mobile-alt {
+    font-size: 3rem;
+    color:white;
+    margin-left:35px;
+    position:relative;
+}
+
+h1 {
+    color:white;
+}
+
+
+h2 {
+    color:rgba(243, 235, 235, 0.96);
+    text-align: center;
+    font-size: 3rem;
+    border-bottom-style:solid;
+     
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+  
+
+
+.disclaimer {
+    
+    font-weight: bold;
+    height:15px;
+}
+
+footer {
+    overflow: hidden;
+    background-color:grey;
+    position: fixed;
+    background-attachment: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height:8.5rem;
+    
+    
+}
+
+footer p {
+    text-align: center;
+    font-size: .7rem;
+    margin-top:0;
+}
+
+.copy {
+    font-size: .7rem;
+    color:black;
+   
+  
+}
+
+
+.fa-home {
+    font-size: 2rem;
+    color:rgb(19,17,17);
+
+}
+
+.fa-info-circle{
+    font-size: 2rem;
+    color:rgb(19, 17, 17)
+}
+
+.fa-map {
+    font-size:2rem;
+    color:rgb(19,17,17)
+}
+
+.fa-utensils {
+    font-size: 2rem;
+    color:rgb(19,17,17)
+}
+
+.col-4 {
+    background-color: rgba(73, 236, 220, .3);
+    border:solid;
+    border-color:rgba(39, 39, 148,.5);
+  
+    
+}
+
+
+
+
+

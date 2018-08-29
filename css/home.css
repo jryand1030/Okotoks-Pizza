@@ -1,0 +1,31 @@
+a {
+  margin: 1rem;
+  align-items: center;
+  margin-top: 5vh; }
+
+h1 {
+  color: white; }
+
+.title {
+  margin-top: 5%;
+  color: white; }
+
+.best {
+  background-color: rgba(0, 0, 0, 0.5); }
+
+p {
+  color: white;
+  font-weight: bolder;
+  font-size: 1.5rem; }
+
+a {
+  color: white; }
+
+#carouselExampleIndicators {
+  height: 60%; }
+
+.carousel-caption {
+  height: 70%; }
+
+.carousel-item {
+  height: 50vh; }
